@@ -1,0 +1,29 @@
+body{
+    background-image: url(../img/fondo.jpg);
+    background-size: cover;
+    padding: 0 10px 15px 15px
+}
+footer{
+    padding: 20px 50px;
+}
+form{
+    padding: 40px 50px;
+}
+nav{
+    height: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav div a img{
+    width: 80px;
+}
+.TextDark{
+    color: rgb(155, 42, 42);
+}
+.TamañoText{
+    font-size: 110%;
+    color: rgba(255, 255, 255, 0.808);
+
+}
+.TextCenter{
+    text-align: center;
+}
